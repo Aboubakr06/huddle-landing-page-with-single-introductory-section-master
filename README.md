@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/order-summary-component-eFORsIGqCp)
+- Solution URL: (https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section--hjeyQEWwR)
 - Live Site URL: (https://admirable-gumdrop-f5ed8e.netlify.app/)
 
 ## My process
